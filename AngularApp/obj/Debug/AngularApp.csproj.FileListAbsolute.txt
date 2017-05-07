@@ -1,0 +1,4 @@
+C:\Nitu\AngularApp\AngularApp\bin\AngularApp.dll
+C:\Nitu\AngularApp\AngularApp\bin\AngularApp.pdb
+C:\Nitu\AngularApp\AngularApp\obj\Debug\AngularApp.dll
+C:\Nitu\AngularApp\AngularApp\obj\Debug\AngularApp.pdb
